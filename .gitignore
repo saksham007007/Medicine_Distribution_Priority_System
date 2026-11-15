@@ -1,0 +1,8 @@
+build/
+node_modules/
+frontend/dist/
+tests/ui/build/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
